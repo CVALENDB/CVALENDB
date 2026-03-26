@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Cristian Camilo Valencia 👋
 
-<!--
-**CVALENDB/CVALENDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Rust Developer | Systems Engineering Student |
 
-Here are some ideas to get you started:
+I'm a developer passionate about performance and in-memory security. Since 2025, I've been deeply immersed in the **Rust** ecosystem, developing robust and scalable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Project
+I'm currently building a **Framework with built-in batteries** for Rust. My goal is to facilitate the rapid and effective development of web applications without sacrificing the control the language offers.
+
+---
+
+## Technology Stack (Rust Ecosystem)
+For my projects and the current framework, I use top-tier tools:
+
+- **Web & Backend:** `Actix-Web`, `Hyper`, `Axum`.
+
+- **Async:** `Tokio`.
+
+- **Desktop:** `Tauri`, `Iced`.
+
+- **Databases:** `SeaORM`, `SQLx`.
+
+--
+
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CVALENDB&layout=compact&theme=vision-heavy&hide_border=true)
+
+---
+
+## Connect with me
+- 📍 Cali, Colombia
+- 🎓 Systems Engineering Student
+- ⚡ Interesting fact: I'm self-taught and a hardware enthusiast.
